@@ -2,7 +2,7 @@
 
 As métricas derivadas pela equipe da Zup Edu relativas a entendimento. A linha de design que seguimos para tentar gerar identidade no código é o Cognitive Driven Development. 
 
-Para saber mais sobre o que é Cognitive Driven Development, 
+Para saber mais sobre o que é Cognitive Driven Development, você pode acessar o [primeiro artigo que publicamos](https://github.com/asouza/pilares-design-codigo/blob/master/ICSME-2020-cognitive-driven-development.pdf).
 
 ## Métrica de entendimento e limite para códigos escritos em kotlin. 
 
